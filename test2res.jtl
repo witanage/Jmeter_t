@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="666" it="0" lt="666" ct="436" ts="1684138418744" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-23" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="848" it="0" lt="848" ct="572" ts="1684138418565" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-14" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="787" it="0" lt="787" ct="515" ts="1684138418626" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-17" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="732" it="0" lt="732" ct="464" ts="1684138418680" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-20" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="948" it="0" lt="948" ct="664" ts="1684138418464" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-9" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="990" it="0" lt="990" ct="711" ts="1684138418424" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-7" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1067" it="0" lt="1067" ct="795" ts="1684138418347" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-3" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="711" it="0" lt="711" ct="443" ts="1684138418704" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-21" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="810" it="0" lt="810" ct="541" ts="1684138418606" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-16" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="913" it="0" lt="913" ct="644" ts="1684138418503" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-11" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="656" it="0" lt="656" ct="432" ts="1684138418761" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-24" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1070" it="0" lt="1070" ct="797" ts="1684138418347" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-2" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1015" it="0" lt="1015" ct="744" ts="1684138418403" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-6" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1071" it="0" lt="1071" ct="796" ts="1684138418347" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-1" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="652" it="0" lt="652" ct="434" ts="1684138418785" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-25" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="661" it="0" lt="661" ct="442" ts="1684138418805" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-26" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="639" it="0" lt="639" ct="427" ts="1684138418851" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-28" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="649" it="0" lt="649" ct="439" ts="1684138418904" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-31" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="697" it="0" lt="697" ct="476" ts="1684138418869" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-29" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="655" it="0" lt="655" ct="440" ts="1684138418924" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-32" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="621" it="0" lt="621" ct="416" ts="1684138418965" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-34" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="643" it="0" lt="643" ct="432" ts="1684138418944" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-33" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1684138419414" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-20" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="212" it="0" lt="212" ct="0" ts="1684138419414" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-17" dt="text" by="343" sby="127" ng="49" na="49">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="211" it="0" lt="211" ct="0" ts="1684138419416" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-16" dt="text" by="343" sby="127" ng="48" na="48">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="213" ct="0" ts="1684138419416" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-11" dt="text" by="343" sby="127" ng="47" na="47">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="215" it="0" lt="215" ct="0" ts="1684138419414" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-14" dt="text" by="343" sby="127" ng="46" na="46">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="216" it="0" lt="216" ct="0" ts="1684138419414" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-23" dt="text" by="343" sby="127" ng="45" na="45">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="215" it="0" lt="215" ct="0" ts="1684138419415" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-21" dt="text" by="343" sby="127" ng="45" na="45">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="215" it="0" lt="215" ct="0" ts="1684138419415" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-3" dt="text" by="343" sby="127" ng="43" na="43">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="214" it="0" lt="214" ct="0" ts="1684138419417" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-24" dt="text" by="343" sby="127" ng="42" na="42">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="647" it="0" lt="647" ct="434" ts="1684138418984" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-35" dt="text" by="343" sby="127" ng="42" na="42">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="214" it="0" lt="214" ct="0" ts="1684138419418" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-2" dt="text" by="343" sby="127" ng="41" na="41">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="221" it="0" lt="221" ct="0" ts="1684138419414" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-9" dt="text" by="343" sby="127" ng="40" na="40">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="221" it="0" lt="221" ct="0" ts="1684138419414" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-7" dt="text" by="343" sby="127" ng="39" na="39">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="219" it="0" lt="219" ct="0" ts="1684138419418" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-6" dt="text" by="343" sby="127" ng="38" na="38">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="215" it="0" lt="215" ct="0" ts="1684138419437" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-25" dt="text" by="343" sby="127" ng="37" na="37">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="646" it="0" lt="646" ct="432" ts="1684138419024" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-37" dt="text" by="343" sby="127" ng="36" na="36">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="669" it="0" lt="669" ct="448" ts="1684138419004" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-36" dt="text" by="343" sby="127" ng="36" na="36">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="219" it="0" lt="219" ct="0" ts="1684138419466" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-26" dt="text" by="343" sby="127" ng="36" na="36">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="644" it="0" lt="644" ct="431" ts="1684138419044" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-38" dt="text" by="343" sby="127" ng="35" na="35">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="212" it="0" lt="212" ct="0" ts="1684138419490" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-28" dt="text" by="343" sby="127" ng="35" na="35">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="665" it="0" lt="665" ct="445" ts="1684138419064" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-39" dt="text" by="343" sby="127" ng="34" na="34">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="646" it="0" lt="646" ct="432" ts="1684138419116" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-41" dt="text" by="343" sby="127" ng="34" na="34">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="209" it="0" lt="209" ct="0" ts="1684138419554" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-31" dt="text" by="343" sby="127" ng="34" na="34">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="647" it="0" lt="647" ct="434" ts="1684138419130" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-42" dt="text" by="343" sby="127" ng="33" na="33">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="637" it="0" lt="637" ct="426" ts="1684138419146" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-43" dt="text" by="343" sby="127" ng="33" na="33">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="220" it="0" lt="220" ct="0" ts="1684138419567" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-29" dt="text" by="343" sby="127" ng="33" na="33">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="0" ts="1684138419586" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-34" dt="text" by="343" sby="127" ng="32" na="32">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="215" it="0" lt="215" ct="0" ts="1684138419579" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-32" dt="text" by="343" sby="127" ng="31" na="31">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="632" it="0" lt="632" ct="423" ts="1684138419165" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-44" dt="text" by="343" sby="127" ng="30" na="30">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="212" it="0" lt="212" ct="0" ts="1684138419587" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-33" dt="text" by="343" sby="127" ng="30" na="30">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="617" it="0" lt="617" ct="412" ts="1684138419200" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-46" dt="text" by="343" sby="127" ng="29" na="29">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="668" it="0" lt="668" ct="445" ts="1684138419184" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-45" dt="text" by="343" sby="127" ng="29" na="29">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="619" it="0" lt="619" ct="414" ts="1684138419264" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-49" dt="text" by="343" sby="127" ng="29" na="29">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="213" ct="0" ts="1684138419670" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-37" dt="text" by="343" sby="127" ng="29" na="29">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="668" it="0" lt="668" ct="447" ts="1684138419224" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-47" dt="text" by="343" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="649" it="0" lt="649" ct="434" ts="1684138419244" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-48" dt="text" by="343" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="221" it="0" lt="221" ct="0" ts="1684138419673" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-36" dt="text" by="343" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="214" it="0" lt="214" ct="0" ts="1684138419688" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-38" dt="text" by="343" sby="127" ng="27" na="27">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="620" it="0" lt="620" ct="415" ts="1684138419284" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-50" dt="text" by="343" sby="127" ng="26" na="26">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="217" it="0" lt="216" ct="0" ts="1684138419762" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-41" dt="text" by="343" sby="127" ng="26" na="26">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="214" it="0" lt="214" ct="0" ts="1684138419778" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-42" dt="text" by="343" sby="127" ng="25" na="25">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="213" ct="0" ts="1684138419783" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-43" dt="text" by="343" sby="127" ng="24" na="24">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="210" it="0" lt="210" ct="0" ts="1684138419797" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-44" dt="text" by="343" sby="127" ng="23" na="23">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="207" it="0" lt="207" ct="0" ts="1684138419817" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-46" dt="text" by="343" sby="127" ng="22" na="22">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1684138419883" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-49" dt="text" by="343" sby="127" ng="21" na="21">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="216" it="0" lt="216" ct="0" ts="1684138419893" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-48" dt="text" by="343" sby="127" ng="20" na="20">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="0" ts="1684138419904" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-50" dt="text" by="343" sby="127" ng="20" na="20">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="220" it="0" lt="220" ct="0" ts="1684138419892" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-47" dt="text" by="343" sby="127" ng="18" na="18">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1790" it="0" lt="946" ct="727" ts="1684138418385" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1831" it="0" lt="984" ct="760" ts="1684138418361" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1666" it="0" lt="808" ct="581" ts="1684138418544" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1741" it="0" lt="921" ct="659" ts="1684138418484" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1642" it="0" lt="787" ct="542" ts="1684138418585" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1572" it="0" lt="728" ct="467" ts="1684138418662" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1511" it="0" lt="656" ct="436" ts="1684138418724" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1601" it="0" lt="757" ct="492" ts="1684138418644" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1738" it="0" lt="864" ct="598" ts="1684138418524" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1833" it="0" lt="952" ct="680" ts="1684138418444" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1454" it="0" lt="632" ct="421" ts="1684138418824" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1520" it="0" lt="660" ct="443" ts="1684138418882" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="281048" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="215" it="0" lt="215" ct="0" ts="1684138420211" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-13" dt="text" by="343" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="0" ts="1684138420226" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-10" dt="text" by="343" sby="127" ng="16" na="16">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="213" ct="0" ts="1684138420235" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-19" dt="text" by="343" sby="127" ng="15" na="15">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="213" ct="0" ts="1684138420236" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-22" dt="text" by="343" sby="127" ng="14" na="14">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="216" it="0" lt="216" ct="0" ts="1684138420245" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-18" dt="text" by="343" sby="127" ng="13" na="13">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="220" it="0" lt="220" ct="0" ts="1684138420263" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-12" dt="text" by="343" sby="127" ng="12" na="12">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1684138420279" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-27" dt="text" by="343" sby="127" ng="12" na="12">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="221" it="0" lt="221" ct="0" ts="1684138420278" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-8" dt="text" by="343" sby="127" ng="10" na="10">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1105" it="0" lt="224" ct="0" ts="1684138419419" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="281048" sby="127" ng="9" na="9">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="435" it="0" lt="217" ct="0" ts="1684138420228" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="281048" sby="127" ng="8" na="8">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1074" it="0" lt="220" ct="0" ts="1684138419631" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="281048" sby="127" ng="7" na="7">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="642" it="0" lt="216" ct="0" ts="1684138420177" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="281048" sby="127" ng="6" na="6">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="643" it="0" lt="218" ct="0" ts="1684138420193" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="281048" sby="127" ng="5" na="5">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="436" it="0" lt="219" ct="0" ts="1684138420403" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="281048" sby="127" ng="4" na="4">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1770" it="0" lt="671" ct="446" ts="1684138419084" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="281048" sby="127" ng="3" na="3">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1108" it="0" lt="226" ct="0" ts="1684138419852" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="281048" sby="127" ng="3" na="3">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="889" it="0" lt="226" ct="0" ts="1684138420856" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="281048" sby="127" ng="2" na="2">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="2641" it="0" lt="224" ct="0" ts="1684138419730" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="281048" sby="127" ng="1" na="1">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+
+<httpSample t="656" it="0" lt="656" ct="433" ts="1684138637359" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-11" dt="text" by="343" sby="127" ng="44" na="44">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="645" it="0" lt="645" ct="433" ts="1684138637379" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-12" dt="text" by="343" sby="127" ng="44" na="44">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="623" it="0" lt="623" ct="417" ts="1684138637419" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-14" dt="text" by="343" sby="127" ng="45" na="45">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="658" it="0" lt="658" ct="441" ts="1684138637439" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-15" dt="text" by="343" sby="127" ng="48" na="48">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="639" it="0" lt="639" ct="426" ts="1684138637458" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-16" dt="text" by="343" sby="127" ng="48" na="48">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="639" it="0" lt="639" ct="427" ts="1684138637477" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-17" dt="text" by="343" sby="127" ng="48" na="48">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="622" it="0" lt="622" ct="417" ts="1684138637499" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-18" dt="text" by="343" sby="127" ng="49" na="49">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="622" it="0" lt="622" ct="416" ts="1684138637521" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-19" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="655" it="0" lt="655" ct="439" ts="1684138637539" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-20" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="624" it="0" lt="624" ct="416" ts="1684138637595" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-23" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="649" it="0" lt="649" ct="434" ts="1684138637580" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-22" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="212" it="0" lt="212" ct="0" ts="1684138638018" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-11" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="212" it="0" lt="212" ct="0" ts="1684138638024" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-12" dt="text" by="343" sby="127" ng="50" na="50">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1684138638042" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-14" dt="text" by="343" sby="127" ng="48" na="48">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="646" it="0" lt="646" ct="432" ts="1684138637619" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-24" dt="text" by="343" sby="127" ng="47" na="47">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="665" it="0" lt="665" ct="446" ts="1684138637639" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-25" dt="text" by="343" sby="127" ng="47" na="47">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="211" it="0" lt="211" ct="0" ts="1684138638097" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-16" dt="text" by="343" sby="127" ng="47" na="47">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="215" it="0" lt="215" ct="0" ts="1684138638097" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-15" dt="text" by="343" sby="127" ng="46" na="46">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="207" it="0" lt="206" ct="0" ts="1684138638122" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-18" dt="text" by="343" sby="127" ng="45" na="45">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="213" ct="0" ts="1684138638116" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-17" dt="text" by="343" sby="127" ng="45" na="45">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="664" it="0" lt="664" ct="444" ts="1684138637677" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-27" dt="text" by="343" sby="127" ng="43" na="43">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="655" it="0" lt="655" ct="435" ts="1684138637697" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-28" dt="text" by="343" sby="127" ng="43" na="43">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="210" it="0" lt="210" ct="0" ts="1684138638143" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-19" dt="text" by="343" sby="127" ng="43" na="43">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="644" it="0" lt="644" ct="427" ts="1684138637738" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-30" dt="text" by="343" sby="127" ng="42" na="42">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="626" it="0" lt="626" ct="420" ts="1684138637779" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-32" dt="text" by="343" sby="127" ng="42" na="42">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="646" it="0" lt="646" ct="433" ts="1684138637762" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-31" dt="text" by="343" sby="127" ng="42" na="42">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="216" it="0" lt="216" ct="0" ts="1684138638195" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-20" dt="text" by="343" sby="127" ng="42" na="42">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1684138638220" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-23" dt="text" by="343" sby="127" ng="41" na="41">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="639" it="0" lt="639" ct="427" ts="1684138637799" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-33" dt="text" by="343" sby="127" ng="40" na="40">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="215" it="0" lt="215" ct="0" ts="1684138638229" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-22" dt="text" by="343" sby="127" ng="40" na="40">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="667" it="0" lt="667" ct="444" ts="1684138637819" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-34" dt="text" by="343" sby="127" ng="39" na="39">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="648" it="0" lt="648" ct="434" ts="1684138637839" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-35" dt="text" by="343" sby="127" ng="39" na="39">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="637" it="0" lt="637" ct="427" ts="1684138637875" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-37" dt="text" by="343" sby="127" ng="39" na="39">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="661" it="0" lt="660" ct="442" ts="1684138637858" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-36" dt="text" by="343" sby="127" ng="39" na="39">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="622" it="0" lt="622" ct="416" ts="1684138637897" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-38" dt="text" by="343" sby="127" ng="39" na="39">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="220" it="0" lt="220" ct="0" ts="1684138638304" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-25" dt="text" by="343" sby="127" ng="39" na="39">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="220" it="0" lt="220" ct="0" ts="1684138638341" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-27" dt="text" by="343" sby="127" ng="38" na="38">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="642" it="0" lt="642" ct="430" ts="1684138637921" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-39" dt="text" by="343" sby="127" ng="37" na="37">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="210" it="0" lt="210" ct="0" ts="1684138638382" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-30" dt="text" by="343" sby="127" ng="37" na="37">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="663" it="0" lt="663" ct="447" ts="1684138637938" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-40" dt="text" by="343" sby="127" ng="36" na="36">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1684138638405" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-32" dt="text" by="343" sby="127" ng="36" na="36">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="659" it="0" lt="659" ct="441" ts="1684138637958" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-41" dt="text" by="343" sby="127" ng="35" na="35">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="214" it="0" lt="214" ct="0" ts="1684138638408" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-31" dt="text" by="343" sby="127" ng="35" na="35">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="652" it="0" lt="652" ct="438" ts="1684138637978" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-42" dt="text" by="343" sby="127" ng="34" na="34">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="621" it="0" lt="621" ct="415" ts="1684138638016" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-44" dt="text" by="343" sby="127" ng="34" na="34">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="212" it="0" lt="212" ct="0" ts="1684138638438" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-33" dt="text" by="343" sby="127" ng="34" na="34">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="663" it="0" lt="663" ct="444" ts="1684138637997" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-43" dt="text" by="343" sby="127" ng="33" na="33">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="622" it="0" lt="622" ct="417" ts="1684138638058" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-46" dt="text" by="343" sby="127" ng="33" na="33">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="622" it="0" lt="622" ct="416" ts="1684138638076" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-47" dt="text" by="343" sby="127" ng="33" na="33">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="214" it="0" lt="214" ct="0" ts="1684138638487" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-35" dt="text" by="343" sby="127" ng="33" na="33">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="218" it="0" lt="218" ct="0" ts="1684138638486" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-34" dt="text" by="343" sby="127" ng="32" na="32">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="210" it="0" lt="210" ct="0" ts="1684138638512" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-37" dt="text" by="343" sby="127" ng="31" na="31">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="210" it="0" lt="210" ct="0" ts="1684138638519" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-38" dt="text" by="343" sby="127" ng="30" na="30">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="217" it="0" lt="217" ct="0" ts="1684138638519" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-36" dt="text" by="343" sby="127" ng="29" na="29">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="642" it="0" lt="642" ct="430" ts="1684138638097" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-48" dt="text" by="343" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="642" it="0" lt="641" ct="427" ts="1684138638139" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-50" dt="text" by="343" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="667" it="0" lt="667" ct="447" ts="1684138638119" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-49" dt="text" by="343" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1522" it="0" lt="703" ct="485" ts="1684138637274" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="281048" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1577" it="0" lt="758" ct="544" ts="1684138637219" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="281048" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1611" it="0" lt="793" ct="561" ts="1684138637201" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="281048" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1518" it="0" lt="687" ct="463" ts="1684138637299" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="281048" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="216" it="0" lt="216" ct="0" ts="1684138638601" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-40" dt="text" by="343" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1478" it="0" lt="659" ct="421" ts="1684138637339" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="281048" sby="127" ng="28" na="28">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1513" it="0" lt="661" ct="442" ts="1684138637319" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="281048" sby="127" ng="27" na="27">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1593" it="0" lt="752" ct="523" ts="1684138637239" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="281048" sby="127" ng="27" na="27">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="217" it="0" lt="217" ct="0" ts="1684138638617" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-41" dt="text" by="343" sby="127" ng="27" na="27">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="0" ts="1684138638637" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-44" dt="text" by="343" sby="127" ng="26" na="26">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="214" it="0" lt="214" ct="0" ts="1684138638631" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-42" dt="text" by="343" sby="127" ng="25" na="25">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1684138638681" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-46" dt="text" by="343" sby="127" ng="24" na="24">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1689" it="0" lt="808" ct="564" ts="1684138637201" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="281048" sby="127" ng="23" na="23">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1692" it="0" lt="813" ct="562" ts="1684138637201" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="281048" sby="127" ng="23" na="23">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1636" it="0" lt="743" ct="504" ts="1684138637259" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="281048" sby="127" ng="23" na="23">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1684138638698" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-47" dt="text" by="343" sby="127" ng="23" na="23">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="213" ct="0" ts="1684138638739" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-48" dt="text" by="343" sby="127" ng="22" na="22">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1576" it="0" lt="683" ct="454" ts="1684138637400" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="281048" sby="127" ng="21" na="21">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="207" it="0" lt="207" ct="0" ts="1684138638796" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-7" dt="text" by="343" sby="127" ng="21" na="21">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="209" it="0" lt="208" ct="0" ts="1684138638797" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-4" dt="text" by="343" sby="127" ng="21" na="21">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1449" it="0" lt="628" ct="418" ts="1684138637559" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="281048" sby="127" ng="19" na="19">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="225" it="0" lt="224" ct="0" ts="1684138638786" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-49" dt="text" by="343" sby="127" ng="19" na="19">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1684138638813" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-2" dt="text" by="343" sby="127" ng="18" na="18">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="208" it="0" lt="208" ct="0" ts="1684138638818" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-10" dt="text" by="343" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="209" it="0" lt="209" ct="0" ts="1684138638817" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-8" dt="text" by="343" sby="127" ng="17" na="17">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="212" it="0" lt="212" ct="0" ts="1684138638833" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-5" dt="text" by="343" sby="127" ng="15" na="15">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="213" ct="0" ts="1684138638832" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-9" dt="text" by="343" sby="127" ng="15" na="15">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="223" it="0" lt="223" ct="0" ts="1684138638895" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-6" dt="text" by="343" sby="127" ng="13" na="13">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1490" it="0" lt="645" ct="428" ts="1684138637657" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="281048" sby="127" ng="12" na="12">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="207" it="0" lt="207" ct="0" ts="1684138639010" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-21" dt="text" by="343" sby="127" ng="12" na="12">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1520" it="0" lt="663" ct="436" ts="1684138637718" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="281048" sby="127" ng="11" na="11">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1071" it="0" lt="218" ct="0" ts="1684138638266" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="281048" sby="127" ng="11" na="11">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1076" it="0" lt="219" ct="0" ts="1684138638352" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="281048" sby="127" ng="10" na="10">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1472" it="0" lt="636" ct="422" ts="1684138638039" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="281048" sby="127" ng="9" na="9">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="429" it="0" lt="217" ct="0" ts="1684138639148" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="281048" sby="127" ng="9" na="9">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="703" it="0" lt="702" ct="0" ts="1684138638894" s="false" lb="HTTP Request" rc="429" rm="Too Many Requests" tn="Thread Group 1-3" dt="text" by="343" sby="127" ng="8" na="8">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1065" it="0" lt="219" ct="0" ts="1684138638563" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="281048" sby="127" ng="7" na="7">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="437" it="0" lt="221" ct="0" ts="1684138639240" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="281048" sby="127" ng="6" na="6">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1099" it="0" lt="222" ct="0" ts="1684138638661" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="281048" sby="127" ng="5" na="5">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="1060" it="0" lt="215" ct="0" ts="1684138638781" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="281048" sby="127" ng="4" na="4">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="903" it="0" lt="230" ct="0" ts="1684138638976" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="281048" sby="127" ng="3" na="3">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="423" it="0" lt="216" ct="0" ts="1684138639511" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="281048" sby="127" ng="2" na="2">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+<httpSample t="2228" it="0" lt="226" ct="0" ts="1684138638890" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="281048" sby="127" ng="1" na="1">
+  <java.net.URL>https://api.publicapis.org/entries</java.net.URL>
+</httpSample>
+
+</testResults>
