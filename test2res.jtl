@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="2258" it="0" lt="2254" ct="2000" ts="1685016379045" s="true" lb="Create Token" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="271" sby="263" ng="1" na="1">
+  <java.net.URL>https://restful-booker.herokuapp.com/auth</java.net.URL>
+</httpSample>
+<httpSample t="254" it="0" lt="254" ct="0" ts="1685016381325" s="true" lb="Get Booking Ids" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="20872" sby="137" ng="1" na="1">
+  <java.net.URL>https://restful-booker.herokuapp.com/booking</java.net.URL>
+</httpSample>
+<httpSample t="243" it="0" lt="242" ct="0" ts="1685016381582" s="true" lb="Create Booking" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="461" sby="471" ng="1" na="1">
+  <assertionResult>
+    <name>Assert Last names</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://restful-booker.herokuapp.com/booking</java.net.URL>
+</httpSample>
+<httpSample t="245" it="0" lt="245" ct="0" ts="1685016382159" s="true" lb="Get Booking by ID" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="432" sby="187" ng="1" na="1">
+  <java.net.URL>https://restful-booker.herokuapp.com/booking/1603</java.net.URL>
+</httpSample>
+<httpSample t="242" it="0" lt="242" ct="0" ts="1685016382467" s="true" lb="Delete Booking by ID" rc="201" rm="Created" tn="Thread Group 1-1" dt="text" by="248" sby="240" ng="1" na="1">
+  <assertionResult>
+    <name>Assert Code - 201</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://restful-booker.herokuapp.com/booking/1603</java.net.URL>
+</httpSample>
+
+</testResults>
